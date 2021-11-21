@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "JavaQA",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
